@@ -199,7 +199,7 @@ export const skills = [
 export const portfolio = [
     {
         id: 1,
-        img: 'src/assets/individual-doing-sport-healthy-lifestyle.jpg',
+        img: 'assets/individual-doing-sport-healthy-lifestyle.jpg',
         title: 'FITCLUB',
         details: [
             {

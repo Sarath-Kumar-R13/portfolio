@@ -8,7 +8,7 @@ const Home = () => {
   return  (
     
     <section className='home section grid'>
-      <img src='src\assets\SKR1997-_Photos(1)~3.jpg'alt='SKR' className='home__img'/>
+      <img src='assets/SKR1997-_Photos(1)~3.jpg'alt='SKR' className='home__img'/>
 
 <div className='home_content'>
   <div className='home_data'>
